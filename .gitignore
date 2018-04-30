@@ -3,6 +3,11 @@
 ### DENSO Robotis Use ###
 _ref/
 
+#Wincaps III
+*.WUO
+*.ldb
+[Rr]emote files/
+
 ### MicrosoftOffice ###
 *.tmp
 
@@ -20,6 +25,9 @@ _ref/
 
 # Visio autosave temporary files
 *.~vsdx
+
+# Access lock files
+*.ldb
 
 ### Windows ###
 # Windows thumbnail cache files
